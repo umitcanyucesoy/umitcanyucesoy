@@ -10,7 +10,7 @@ Game Engines: Unity, Unreal Engine(beginner level)
 Operation Systems: Windows XP-11,Mac, Windows 2008-2012 R2, Kali Linux
 
 🎓 Certificate
--Completed C# Masterclass \n
+-Completed C# Masterclass
 (TutorialsEU)
 -Programming Design Patterns For Unity
 (GameDev.Tv)
@@ -25,7 +25,6 @@ Operation Systems: Windows XP-11,Mac, Windows 2008-2012 R2, Kali Linux
 -Unity Game Developer 3D
 (GameDev.Tv )
 
----------------------------------------------------------------------------------------------------------------------------------------
 
 
 <!--
