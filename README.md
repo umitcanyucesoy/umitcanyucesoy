@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Umit.👋
+
+I have been developing projects with Unity for over 2 years, creating both 2D and 3D games. Additionally, I have numerous projects in C# and OOP, and I am proficient in these areas. This industry is very valuable to me. I truly love what I do, and seeing my progress at every stage brings me great joy. As for additional languages, I also know Python, Java, and SQL for now. Take care!
 
 <!--
 **umitcanyucesoy/umitcanyucesoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
