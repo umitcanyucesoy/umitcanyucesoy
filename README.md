@@ -4,26 +4,26 @@ I have been developing projects with Unity for over 2 years, creating both 2D an
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-👨‍💻 Professional Skills
-Language: C#, SQL, Java, Python, C.
-Game Engines: Unity, Unreal Engine(beginner level)
-Operation Systems: Windows XP-11,Mac, Windows 2008-2012 R2, Kali Linux
+## 👨‍💻 Professional Skills
+Language: C#, SQL, Java, Python, C.  
+Game Engines: Unity, Unreal Engine(beginner level)  
+Operation Systems: Windows XP-11,Mac, Windows 2008-2012 R2, Kali Linux  
 
-🎓 Certificate
--Completed C# Masterclass
-(TutorialsEU)
--Programming Design Patterns For Unity
-(GameDev.Tv)
--RPG Core Combat Creator
-(GameDev.Tv)
--Unity Turn-Based Strategy
-(GameDev.Tv)
--Unity Dialogue & Quests 
-(GameDev.Tv)
--Unity Game Developer 2D
-(GameDev.Tv )
--Unity Game Developer 3D
-(GameDev.Tv )
+## 🎓 Certificate
+-C# Masterclass  
+(TutorialsEU)  
+-Programming Design Patterns For Unity  
+(GameDev.Tv)  
+-RPG Core Combat Creator  
+(GameDev.Tv)  
+-Unity Turn-Based Strategy  
+(GameDev.Tv)  
+-Unity Dialogue & Quests   
+(GameDev.Tv)  
+-Unity Game Developer 2D  
+(GameDev.Tv)  
+-Unity Game Developer 3D  
+(GameDev.Tv)  
 
 
 
