@@ -1,6 +1,6 @@
 ## Hi there, I'm Umit.👋
 
-Hi, I'm Ümit Can Yücesoy. I graduated from Celal Bayar University, Department of Software Engineering. I've been developing 2D, 3D mobile and PC games in Unity for over 4 years. I can say that writing clean code in my scripts is my golden rule. I try to avoid dependencies by using Dependency Injection packages. I know how to use Git. I love what I do and I enjoy seeing my progress in every project I do. If you want to reach the base code of the games I make, you can check out my Gitlab and GitHub. You can download and test the games from the itch.io section to play them. Enjoy :)
+ I graduated from Celal Bayar University, Department of Software Engineering. I've been developing 2D, 3D mobile and PC games in Unity for over 4 years. I can say that writing clean code in my scripts is my golden rule. I try to avoid dependencies by using Dependency Injection packages. I know how to use Git. I love what I do and I enjoy seeing my progress in every project I do. If you want to reach the base code of the games I make, you can check out my Gitlab and GitHub. You can download and test the games from the itch.io section to play them. Enjoy :)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
