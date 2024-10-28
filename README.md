@@ -5,27 +5,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 ## 👨‍💻 Professional Skills
-Language: C#, SQL, Java, Python, C.  
-Game Engines: Unity, Unreal Engine(beginner level)  
+Language: C#, SQL, Java, Python, C++.  
+Game Engines: Unity, Unreal Engine 
 Operation Systems: Windows XP-11,Mac, Windows 2008-2012 R2, Kali Linux  
-
-## 🎓 Certificate
--C# Masterclass  
-(TutorialsEU)  
-
--Programming Design Patterns For Unity  
  
--RPG Core Combat Creator  
- 
--Unity Turn-Based Strategy  
- 
--Unity Dialogue & Quests   
- 
--Unity Game Developer 2D  
-
--Unity Game Developer 3D  
- 
-
 
 
 <!--
