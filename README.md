@@ -1,27 +1,20 @@
-## Hi there, I'm Umit.👋
+### Hi 👋, I'm Ümit Can Yücesoy  
+I'm a game developer.  
 
- I graduated from Celal Bayar University, Department of Software Engineering. I've been developing 2D, 3D mobile and PC games in Unity for over 4 years. I can say that writing clean code in my scripts is my golden rule. I try to avoid dependencies by using Dependency Injection packages. I know how to use Git. I love what I do and I enjoy seeing my progress in every project I do. If you want to reach the base code of the games I make, you can check out my Gitlab and GitHub. You can download and test the games from the itch.io section to play them. Enjoy :)
+🔭 I’m currently working on **Unity Game Projects**  
 
----------------------------------------------------------------------------------------------------------------------------------------
+👨‍💻 All of my projects are available at [YouTube](https://www.youtube.com/playlist?list=PLu570p6KwizLzSyiK4vwERquCM0sv_DMt)  
 
-## 👨‍💻 Professional Skills
-Language: C#, SQL, Java, Python, C++.  
-Game Engines: Unity, Unreal Engine 
-Operation Systems: Windows XP-11,Mac, Windows 2008-2012 R2, Kali Linux  
- 
+💬 Ask me about **Unity, C#, C++, Javascript, Git**  
 
+📫 How to reach me **umitcanyucesoy@gmail.com**  
 
-<!--
-**umitcanyucesoy/umitcanyucesoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📄 Know about my experiences [Here](https://linktr.ee/umitcanyucesoy)  
 
-Here are some ideas to get you started:
+### 🌍 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ümit-can-yücesoy-96b160258/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Languages and Tools:  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
